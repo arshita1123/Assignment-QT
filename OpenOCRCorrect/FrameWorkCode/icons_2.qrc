@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>bold_1.png</file>
+        <file>bold.jfif</file>
+        <file>sub.jpg</file>
+        <file>sup.png</file>
+    </qresource>
+</RCC>
